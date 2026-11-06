@@ -58,5 +58,10 @@ jobs:
                     context: .
                     push: true
                     platforms: linux/amd64, linux/arm64
+<<<<<<< HEAD
 
                     tags: gilbet1975/Fast-API-Docker-Example:latest
+=======
+                    tags: gilbet1975/Fast-API-Docker-Example:latest
+
+>>>>>>> f64feb7a1cd20cfaab57d231342ba978d59de9b8
